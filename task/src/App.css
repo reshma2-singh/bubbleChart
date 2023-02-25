@@ -1,0 +1,1453 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.header{
+height: 60px;
+  width: 1920px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  background: #FFFFFF;
+  
+}
+.title{
+position: absolute;
+  width: 161px;
+ top:5px;
+  left: 84px;
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20.5076px;
+  line-height: 22px;
+
+  color: #000000;
+  font-family: Archivo;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+  color: #000000;
+}
+.home{
+  height: 982px;
+    /* width: 1520px; */
+    width: 1300px;
+    left: 400px;
+    top: 60px;
+    position: absolute;
+      left: 20.83%;
+      right: 0%;
+      top: 5.56%;
+      bottom: 3.52%;
+    
+      background: #EEF1FA;
+      border-radius: 73px 0px 0px 73px;
+  
+}
+.bigWidget{
+  height: 648px;
+    width: 648px;
+    left: 119px;
+    top: 65px;
+    border-radius: 0px;
+  border-radius: 50%;
+  position: absolute;
+    /* left: 13.79%; */
+    left: 8%;
+    right: 11.12%;
+    top:7%;
+    /* top: 8.35%; */
+    bottom: 8.35%;
+ 
+    background: #FFFFFF;
+    /* Widget shadow */
+  
+    box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07), 0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198), 0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275), 0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035), 0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725), 0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+}
+.inner{
+  height: 250px;
+    width: 250px;
+    left: 323px;
+    top: 272px;
+
+  position: absolute;
+    left: 37.43%;
+    right: 33.6%;
+    
+    top: 34.96%;
+    bottom: 32.9%;
+  border-radius: 50%;
+    /* big ball */
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #838FFF 0%, rgba(227, 230, 255, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #030092;
+    box-shadow: 0px 40px 80px rgba(35, 0, 248, 0.24), inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 0px -20px 50px rgba(124, 161, 255, 0.37), inset 10px 16px 20px rgba(207, 163, 252, 0.95);
+}
+
+.sphere{
+  height: 105px;
+    width: 105px;
+    left: 1557px;
+    top: 260px;
+    border-radius: 0px;
+  position: absolute;
+    width: 105px;
+    height: 105px;
+    left: 70%;
+    top: calc(50% - 105px/2 - 227.5px);
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #838FFF 0%, rgba(227, 230, 255, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #030092;
+    box-shadow: 0px 40px 80px rgba(35, 0, 248, 0.24), inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 0px -20px 50px rgba(124, 161, 255, 0.37), inset 10px 16px 20px rgba(130, 5, 255, 0.95);
+    border-radius: 50%;
+}
+.pink1{
+  height: 143px;
+    width: 143px;
+    left: 432px;
+    top: 111px;
+    
+  position: absolute;
+    left: 50.06%;
+    /* right: 33.37%; */
+    /* top: 14.27%; */
+    top:7%;
+    bottom: 67.35%;
+  border-radius: 50%;
+    /* werwer */
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #FFE3D3 0%, rgba(179, 0, 183, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #C500F7;
+    /* 55456 */
+  
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.13), 60px 120px 80px rgba(255, 157, 203, 0.33), inset 0px 4px 30px rgba(255, 255, 255, 0.76), inset 0px -20px 50px rgba(255, 255, 255, 0.53), inset 10px 20px 100px #FF8777;
+}
+.pink2{
+  height: 143px;
+    width: 143px;
+    left: 148px;
+    top: 221px;
+    border-radius: 0px;
+  position: absolute;
+    /* left: 17.15%; */
+    left: 10%;
+    right: 66.28%;
+    top: 28.41%;
+ 
+   
+  border-radius: 50%;
+    /* werwer */
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #FFE3D3 0%, rgba(179, 0, 183, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #C500F7;
+    /* 55456 */
+  
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.13), 60px 120px 80px rgba(255, 157, 203, 0.33), inset 0px 4px 30px rgba(255, 255, 255, 0.76), inset 0px -20px 50px rgba(255, 255, 255, 0.53), inset 10px 20px 100px #FF8777;
+}
+.pink3{
+  height: 175px;
+    width: 175px;
+    left: 190px;
+    top: 479px;
+    border-radius: 50%;
+  position: absolute;
+    left: 22.02%;
+    right: 57.71%;
+    /* top: 61.57%; */
+    top:70%;
+    bottom: 15.94%;
+  
+    /* small ball */
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #FFE3D3 0%, rgba(179, 0, 183, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #C500F7;
+    /* 55456 */
+  
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.13), 60px 120px 80px rgba(255, 157, 203, 0.33), inset 0px 4px 30px rgba(255, 255, 255, 0.76), inset 0px -20px 50px rgba(255, 255, 255, 0.53), inset 10px 20px 100px #FF8777;
+}
+.pink4{
+  height: 117px;
+    width: 117px;
+    left: 485px;
+    top: 510px;
+    border-radius: 50%;
+  position: absolute;
+    left: 56.2%;
+    right: 30.24%;
+     /* top: 65.55%; */
+     top:74%;
+    bottom: 19.41%;
+  
+    /* werwer */
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #FFE3D3 0%, rgba(179, 0, 183, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #C500F7;
+    /* 55456 */
+  
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.13), 60px 120px 80px rgba(255, 157, 203, 0.33), inset 0px 4px 30px rgba(255, 255, 255, 0.76), inset 0px -20px 50px rgba(255, 255, 255, 0.53), inset 10px 20px 100px #FF8777;
+}
+.pink5{
+  height: 120px;
+    width: 120px;
+    left: 593px;
+    top: 316px;
+    border-radius: 50%;
+  position: absolute;
+    /* left: 72.65%; */
+    /* left: 20%; */
+    left: 79%;
+    right: 21.32%;
+    top: 45.5%;
+    bottom: 52.44%;
+      
+        /* werwer */
+      
+        background: radial-gradient(96% 96% at 70.4% 31.2%, #FFE3D3 0%, rgba(179, 0, 183, 0) 100%)
+          /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+          , #C500F7;
+        /* 55456 */
+      
+        box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.13), 60px 120px 80px rgba(255, 157, 203, 0.33), inset 0px 4px 30px rgba(255, 255, 255, 0.76), inset 0px -20px 50px rgba(255, 255, 255, 0.53), inset 10px 20px 100px #FF8777;
+}
+.purple1{
+  height: 87px;
+    width: 87px;
+    left: 312px;
+    top: 179px;
+    border-radius: 50%;
+  position: absolute;
+    left: 36.15%;
+    right: 53.77%;
+    top: 23.01%;
+    bottom: 65.81%;
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #FFE3D3 0%, rgba(179, 0, 183, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #00CAF7;
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.13), 60px 120px 80px rgba(255, 180, 215, 0.33), inset 0px 4px 20px rgba(255, 255, 255, 0.76), inset 0px -20px 20px rgba(255, 255, 255, 0.23), inset 10px 20px 100px #583DFF;
+}
+.yellow1{
+  height: 101px;
+    width: 101px;
+    left: 97px;
+    top: 384px;
+    border-radius: 50%;
+  position: absolute;
+    /* left: 11.24%; */
+    left: -2%;
+    right: 77.06%;
+    /* top: 49.36%; */
+    top:52%;
+    bottom: 37.66%;
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #FFB84D 0%, rgba(119, 43, 0, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #FF8A00;
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.13), 60px 120px 80px rgba(255, 148, 22, 0.33), inset 0px 4px 30px rgba(255, 255, 255, 0.76), inset 0px -20px 50px rgba(255, 255, 255, 0.53);
+}
+.purple1{
+  height: 60px;
+    width: 60px;
+    left: 803px;
+    top: 483px;
+    border-radius: 50%;
+  position: absolute;
+    left: 93.05%;
+    right: 0%;
+    top: 62.08%;
+    bottom: 30.21%;
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #3244E8 0%, rgba(255, 255, 255, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #2A27B9;
+    box-shadow: 0px 4px 80px #2300F8, inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95);
+}
+.purple2{
+  height: 47px;
+    width: 47px;
+    left: 1557px;
+    top: 785px;
+    border-radius: 50%;
+  position: absolute;
+    width: 47px;
+    height: 47px;
+    left: calc(50% - 47px/2 + 620.5px);
+    top: calc(50% - 47px/2 + 268.5px);
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #3244E8 0%, rgba(0, 2, 16, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #030092;
+    box-shadow: 0px 4px 80px rgba(35, 0, 248, 0.46), inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95);
+}
+.purple3{
+  height: 47px;
+    width: 47px;
+    left: 617px;
+    top: 219px;
+border-radius: 50%;
+position: absolute;
+  width: 47px;
+  height: 47px;
+  left: calc(50% - 47px/2 - 319.5px);
+  top: calc(50% - 47px/2 - 297.5px);
+
+  background: radial-gradient(96% 96% at 70.4% 31.2%, #3244E8 0%, rgba(0, 2, 16, 0) 100%)
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #030092;
+  box-shadow: 0px 4px 80px rgba(35, 0, 248, 0.46), inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95);
+}
+.purple4{
+  height: 61px;
+    width: 61px;
+    left: 669px;
+    top: 770px;
+    border-radius: 50%;
+  position: absolute;
+    width: 61px;
+    height: 61px;
+    left: calc(50% - 61px/2 - 260.5px);
+    top: calc(50% - 61px/2 + 260.5px);
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #3244E8 0%, rgba(255, 255, 255, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #2A27B9;
+    box-shadow: 0px 50px 80px rgba(35, 0, 248, 0.31), inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 10px 16px 20px rgba(130, 5, 255, 0.95);
+
+}
+.purplea{
+  height: 63px;
+    width: 63px;
+    left: 553px;
+    top: 250px;
+    border-radius: 50%;
+position: absolute;
+  left: 64.08%;
+  right: 28.62%;
+  /* top: 32.13%; */
+  top:28%;
+  bottom: 59.77%;
+
+  background: radial-gradient(96% 96% at 70.4% 31.2%, #FFE3D3 0%, rgba(179, 0, 183, 0) 100%)
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #00CAF7;
+  box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.13), 60px 120px 80px rgba(255, 180, 215, 0.33), inset 0px 4px 20px rgba(255, 255, 255, 0.76), inset 0px -20px 20px rgba(255, 255, 255, 0.23), inset 10px 20px 100px #583DFF;
+}
+.purpleb{
+  height: 87px;
+    width: 87px;
+    left: 312px;
+    top: 179px;
+    border-radius: 50%;
+position: absolute;
+  left: 36.15%;
+  right: 53.77%;
+  top: 23.01%;
+  bottom: 65.81%;
+
+  background: radial-gradient(96% 96% at 70.4% 31.2%, #FFE3D3 0%, rgba(179, 0, 183, 0) 100%)
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #00CAF7;
+  box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.13), 60px 120px 80px rgba(255, 180, 215, 0.33), inset 0px 4px 20px rgba(255, 255, 255, 0.76), inset 0px -20px 20px rgba(255, 255, 255, 0.23), inset 10px 20px 100px #583DFF;
+}
+.purplec{
+  height: 60px;
+    width: 60px;
+    left: 240px;
+    top: 386px;
+    border-radius: 50%;
+position: absolute;
+  left: 27.81%;
+  right: 65.24%;
+  top: 49.61%;
+  bottom: 42.67%;
+
+  background: radial-gradient(96% 96% at 70.4% 31.2%, #FFE3D3 0%, rgba(179, 0, 183, 0) 100%)
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #00CAF7;
+  box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.13), 60px 120px 80px rgba(255, 180, 215, 0.33), inset 0px 4px 20px rgba(255, 255, 255, 0.76), inset 0px -20px 20px rgba(255, 255, 255, 0.23), inset 10px 20px 100px #583DFF;
+}
+.purpled{
+  height: 20px;
+    width: 20px;
+    left: 256px;
+    top: 176px;
+    border-radius: 50%;
+position: absolute;
+  left: 29.66%;
+  right: 68.02%;
+  top: 22.62%;
+  bottom: 74.81%;
+
+  background: radial-gradient(96% 96% at 70.4% 31.2%, #3244E8 0%, rgba(0, 2, 16, 0) 100%)
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #5551FD;
+  box-shadow: 0px 4px 80px rgba(248, 0, 119, 0.48), inset 0px 2px 10px rgba(255, 255, 255, 0.58);
+}
+.purplef{
+  height: 20px;
+    width: 20px;
+    left: 653px;
+    top: 262px;
+    border-radius: 50%;
+position: absolute;
+  left: 75.67%;
+  right: 22.02%;
+  top: 33.68%;
+  bottom: 63.75%;
+
+  background: radial-gradient(96% 96% at 70.4% 31.2%, #3244E8 0%, rgba(0, 2, 16, 0) 100%)
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #5551FD;
+  box-shadow: 0px 4px 80px rgba(248, 0, 119, 0.48), inset 0px 2px 10px rgba(255, 255, 255, 0.58);
+}
+.purpleg{
+  height: 20px;
+    width: 20px;
+    left: 604px;
+    top: 473px;
+    border-radius: 50%;
+position: absolute;
+  left: 69.99%;
+  right: 27.69%;
+  top: 60.8%;
+  bottom: 36.63%;
+
+  background: radial-gradient(96% 96% at 70.4% 31.2%, #3244E8 0%, rgba(0, 2, 16, 0) 100%)
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    , #5551FD;
+  box-shadow: 0px 4px 80px rgba(248, 0, 119, 0.48), inset 0px 2px 10px rgba(255, 255, 255, 0.58);
+}
+.sky1{
+  height: 60px;
+    width: 60px;
+    left: 64px;
+    top: 275px;
+    border-radius:50%;
+  position: absolute;
+    left: 7.42%;
+    right: 85.63%;
+    top: 35.35%;
+    bottom: 56.94%;
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #6AE4FF 0%, rgba(74, 147, 255, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #0811E2;
+    box-shadow: inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 0px -6px 10px rgba(63, 209, 255, 0.67), inset 10px 16px 20px rgba(0, 133, 255, 0.95);
+}
+.sky2{
+  height: 64px;
+    width: 64px;
+    left: 0px;
+    top: 361px;
+    border-radius: 50%;
+  position: absolute;
+    left: 0%;
+    right: 92.58%;
+    top: 46.4%;
+    bottom: 45.37%;
+  
+    background: radial-gradient(96% 96% at 70.4% 31.2%, #6AE4FF 0%, rgba(74, 147, 255, 0) 100%)
+      /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+      , #0811E2;
+    box-shadow: inset 0px 2px 10px rgba(255, 255, 255, 0.58), inset 0px -6px 10px rgba(63, 209, 255, 0.67), inset 10px 16px 20px rgba(0, 133, 255, 0.95);
+}
+.side{
+  height: 401px;
+    width: 290px;
+    left: 60px;
+    top: 166px;
+    border-radius: 10px;
+    padding: 20px 0px 20px 0px;
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0px;
+    gap: 30px;
+  
+    position: absolute;
+    width: 290px;
+    height: 401px;
+    left: 60px;
+    top: 166px;
+  
+    /* Snow */
+  
+    background: #FFFFFF;
+    /* Widget shadow */
+  
+    box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07), 0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198), 0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275), 0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035), 0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725), 0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+    border-radius: 10px;
+}
+.board1{
+  height: 401px;
+    width: 290px;
+    left: 60px;
+    top: 166px;
+    border-radius: 10px;
+    padding: 20px 0px 20px 0px;
+display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0px;
+  gap: 30px;
+
+  position: absolute;
+  width: 255px;
+  /* height: 401px; */
+  height: 370px;
+  left: 20px;
+  top: 100px;
+
+  /* Snow */
+
+  
+    /* Purple Heart */
+  
+    
+
+  background: #FFFFFF;
+  /* Widget shadow */
+
+  box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07), 0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198), 0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275), 0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035), 0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725), 0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+  border-radius: 10px;
+}
+.board2{
+  height: 252px;
+    width: 290px;
+    left: 60px;
+    top: 595px;
+    border-radius: 10px;
+    padding: 20px 30px 20px 30px;
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 30px;
+    gap: 18px;
+  margin-top: 120px;
+    position: absolute;
+    width: 200px;
+    height: 159px;
+    left: 17px;
+    top: calc(50% - 252px/2 + 181px);
+  
+    /* Purple Heart */
+  
+    background: #8676FF;
+    /* Widget shadow */
+  
+    box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07), 0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198), 0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275), 0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035), 0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725), 0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+    border-radius: 10px;
+}
+.board3{
+  height: 128px;
+    width: 290px;
+    left: 60px;
+    top: 875px;
+    border-radius: 10px;
+    padding: 20px 30px 20px 30px;
+display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 30px;
+  gap: 14px;
+margin-top: 70px;
+  position: absolute;
+  width: 200px;
+  height: 128px;
+  left: 20px;
+  top: calc(50% - 128px/2 + 399px);
+
+  background: #FFFFFF;
+  /* Widget shadow */
+
+  box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07), 0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198), 0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275), 0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035), 0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725), 0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+  border-radius: 10px;
+}
+
+.search{
+  height: 32px;
+    width: 520px;
+    left: 0px;
+    top: 0px;
+    border-radius: 8px;
+  position: absolute;
+    width: 520px;
+    height: 32px;
+    left: 300px;
+    top: 2px;
+  
+    background: #EEF0FA;
+    border-radius: 8px;
+}
+.text{
+  height: 24px;
+    width: 76px;
+    left: 159px;
+    top: 0px;
+   
+  width: 76px;
+    height: 24px;
+  
+    /* Body / Body 1 */
+  
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+  
+    letter-spacing: 0.44px;
+  
+    color: #000000;
+  
+  
+    /* Inside auto layout */
+  
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.nav_items{
+  display: flex;
+  height: 24px;
+    width: 571px;
+    left: 1027px;
+    top: 18px;
+    position: absolute;
+      width: 571px;
+      height: 24px;
+      left: 900px ;
+      top: 5px;
+      
+}
+.nav_items>div{
+  margin-left: 15px;
+}
+.logo{
+  height: 39.33194351196289px;
+    width: 39.34020233154297px;
+    left: 0.32989501953125px;
+    top: 0px;
+    border-radius: 0px;
+    position: absolute;
+      /* left: 0.82%; */
+      left: 43px;
+      right: 0.82%;
+      top: 0%;
+      bottom: 1.67%;
+}
+.logo>img{
+  width: 35px;
+  height: 35px;
+}
+.larger{
+  height: 778px;
+    width: 778px;
+    left: 54px;
+    top: 0px;
+    border-radius: 50%;
+  box-sizing: border-box;
+  
+    position: absolute;
+    left: 16.26%; 
+     right: 1.59%; 
+  top:5%;
+    bottom: 0%;
+  
+    border: 20px solid rgba(255, 255, 255, 0.3);
+}
+
+.line{
+  display: flex;
+  height: 36px;
+    width: 351px;
+    left: 0px;
+    top: 0px;
+    position: relative;
+    border-radius: 100px;
+  position: absolute;
+    left: 32%;
+    right: 0%;
+    top: 5%;
+    bottom: 0%;
+  
+    background: #FFFFFF;
+    border-radius: 100px;
+}
+.search__icon{
+  position: absolute;
+  right: 0px;
+  top:2px
+}
+.icon{
+  position: absolute;
+  display: flex;
+  right: 75px;
+  top:3px
+}
+
+.icon>div{
+  margin-right: 25px;
+}
+
+.rec1{
+  height: 92px;
+    width: 46px;
+    left: 0px;
+    top: 0px;
+    border-radius: 8px;
+  position: absolute;
+    left: 90%;
+    right: 0%;
+    top: 30%;
+    bottom: 0%;
+  
+    /* Snow */
+  
+    background: #FFFFFF;
+    /* Widget shadow */
+  
+    box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07), 0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198), 0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275), 0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035), 0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725), 0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+    border-radius: 8px;
+}
+.rec2{
+  height: 46px;
+    width: 46px;
+    left: 0px;
+    top: 0px;
+    border-radius: 8px;
+  position: absolute;
+    left: 90%;
+    right: 0%;
+    top: 40%;
+    bottom: 0%;
+  
+    /* Snow */
+  
+    background: #FFFFFF;
+    /* Widget shadow */
+  
+    box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07), 0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198), 0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275), 0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035), 0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725), 0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+    border-radius: 8px;
+}
+.rec3{
+  height: 132px;
+    width: 46px;
+    left: 0px;
+    top: 0px;
+    border-radius: 8px;
+  position: absolute;
+    left: 90%;
+    right: 0%;
+    top: 45.5%;
+    bottom: 0%;
+  
+    /* Snow */
+  
+    background: #FFFFFF;
+    /* Widget shadow */
+  
+    box-shadow: 0px 100px 80px rgba(108, 73, 172, 0.07), 0px 41.7776px 33.4221px rgba(108, 73, 172, 0.0503198), 0px 22.3363px 17.869px rgba(108, 73, 172, 0.0417275), 0px 12.5216px 10.0172px rgba(108, 73, 172, 0.035), 0px 6.6501px 5.32008px rgba(108, 73, 172, 0.0282725), 0px 2.76726px 2.21381px rgba(108, 73, 172, 0.0196802);
+    border-radius: 8px;
+}
+
+
+.circles {
+  position: relative;
+  display: inline-block;
+}
+
+.circle1 {
+  position: relative;
+  width: 146px;
+  height: 146px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.circle2 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 120px;
+  height: 120px;
+  transform: translateX(-50%) translateY(-50%);
+  background: #fff;
+  border-radius: 50%;
+}
+
+.segment {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  transform-origin: 0 0;
+}
+
+.blue {
+  background-color: #8676FF;
+}
+
+.pink {
+  background-color: #FF708B;
+}
+
+.seg1 {
+  transform: rotate(270deg) skew(40deg);
+}
+
+.seg2 {
+  transform: rotate(320deg) skew(-50deg);
+}
+
+.seg3 {
+  transform: rotate(100deg) skew(50deg);
+}
+
+.yellow {
+  background-color: #FFBA69;
+  transform: rotate(320deg) skew(-50deg);
+}
+
+.yellow1 {
+  background-color: #FFBA69;
+  transform: rotate(270deg);
+}
+
+.yellow2 {
+  background-color: #FFBA69;
+  transform: rotate(0deg);
+}
+
+.yellow3 {
+  background-color: #FFBA69;
+  transform: rotate(90deg) skew(-40deg);
+}
+
+.circular-progress-yellow {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 100px;
+  height: 100px;
+  background-color: #FFBA69;
+  transform: translateX(-50%) translateY(-50%);
+  background: #fff;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.circular-progress-inner2 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 70px;
+  height: 70px;
+  transform: translateX(-50%) translateY(-50%);
+  background: #fff;
+  border-radius: 50%;
+}
+
+.circular-progress-blue {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 10px;
+  height: 10px;
+  border: solid #8676FF 5px;
+  transform: translateX(-50%) translateY(-50%);
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.grey-line {
+  position: absolute;
+  width: 130px;
+  height: 130px;
+  border: solid #DBDFF1 4.9px;
+  border-radius: 50%;
+  top: 3px;
+}
+
+
+.grey-line2 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 80px;
+  height: 80px;
+  border: solid #DBDFF1 4.9px;
+  transform: translateX(-50%) translateY(-50%);
+  border-radius: 50%;
+}
+
+.grey-line3 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 50px;
+  height: 50px;
+  background-color: #F4F6FF;
+  transform: translateX(-50%) translateY(-50%);
+  border-radius: 50%;
+  overflow: hidden;
+}
+.remove{
+  position: absolute;
+  bottom: 10%;
+  left: 25%;
+}
+.add{
+  position: absolute;
+  top:15%;
+  left: 25%;
+}
+.adjst{
+  position: absolute;
+  top: 20%;
+    left: 25%;
+}
+.share{
+position: absolute;
+  top: 6%;
+  left: 25%;
+}
+.linear{
+position: absolute;
+  bottom: 40%;
+  left: 25%;
+}
+.insight{
+position: absolute;
+  bottom: 10%;
+  left: 25%;
+}
+.inner>h3{
+height: 32px;
+  width: 83px;
+  left: 404px;
+  top: 386px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.15000000596046448px;
+    text-align: center;
+  position: absolute;
+    /* left: 46.81%; */
+    left:34%;
+    right: 43.57%;
+    /* top: 49.61%; */
+    top:47%;
+    bottom: 46.27%;
+  
+    /* Headline / H6 */
+  
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+  
+    text-align: center;
+    letter-spacing: 0.15px;
+  
+    color: #FFFFFF;
+}
+.pink3>h3{
+height: 32px;
+  width: 80px;
+  left: 233px;
+  top: 559px;
+  border-radius: nullpx;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.15000000596046448px;
+    text-align: center;
+    position: absolute;
+      left: 27%;
+      right: 63.73%;
+      
+      top:45%;
+      bottom: 24.04%;
+    
+      /* Headline / H6 */
+    
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 20px;
+      line-height: 32px;
+      /* identical to box height, or 160% */
+    
+      text-align: center;
+      letter-spacing: 0.15px;
+    
+      color: #FFFFFF;
+}
+.pink2>h3{
+height: 24px;
+  width: 58px;
+  left: 189px;
+  top: 291px;
+  
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0.4399999976158142px;
+    text-align: center;
+  position: absolute;
+    left: 21.9%;
+    right: 71.38%;
+    top: 37.4%;
+    bottom: 59.51%;
+  
+    /* Body / Body 1 */
+  
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+  
+    text-align: center;
+    letter-spacing: 0.44px;
+  
+    color: #FFFFFF;
+}
+.pink1>h3{
+  height: 16px;
+    width: 45px;
+    left: 482px;
+    top: 161px;
+    
+  position: absolute;
+    left: 36.85%;
+    right: 38.93%;
+   
+    top:40%;
+    bottom: 77.25%;
+  
+    /* Tips and details / Caption */
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+  
+    text-align: center;
+    letter-spacing: 0.4px;
+  
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.4000000059604645px;
+    text-align: center;
+}
+.pink4>h3{
+  height: 24px;
+    width: 58px;
+    left: 623px;
+    top: 373px;
+    
+  position: absolute;
+    left: 25.19%;
+    top: 45%;
+    bottom: 48.97%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+  
+    text-align: center;
+    letter-spacing: 0.44px;
+  
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0.4399999976158142px;
+    text-align: center;
+}
+.line>h5{
+  margin-left: 40px;
+  margin-top: 8px;
+  font-family: Roboto;
+  font-size: 14px;
+  
+}
+.board1__text>p{
+  width: 225px;
+    height: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.44px;
+    color: #383874;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    height: 32px;
+      width: 225px;
+      left: 0px;
+      top: 0px;
+     
+      height: 32px;
+        width: 225px;
+        left: 0px;
+        top: 0px;
+       
+
+}
+.board1__text>h5{
+  width: 81px;
+    height: 36px;
+  
+    /* Headline / H5 */
+  
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 36px;
+    /* identical to box height, or 164% */
+  
+    display: flex;
+    align-items: center;
+    text-align: center;
+  
+    /* Night Blue */
+  
+    color: #383874;
+  
+  
+    /* Inside auto layout */
+  
+    flex: none;
+    order: 0;
+    align-self: center;
+    flex-grow: 0;
+  height: 36px;
+    width: 81px;
+    left: 0px;
+    top: 0px;
+    border-radius: nullpx;
+      font-family: Poppins;
+      font-size: 22px;
+      font-weight: 600;
+      line-height: 36px;
+      letter-spacing: 0em;
+      text-align: center;
+      margin-left: 45px;
+}
+.board2>h4{
+    font-family: 'Poppins';
+    font-style: normal;
+   color: #FFFFFF;
+  font-weight: 300;
+  font-size: 16px;
+ margin-right:77px ;
+ margin-top: 5px;
+     
+}
+.board2__two>h5{
+font-family: 'Poppins';
+font-size: 20px;
+font-weight: 700;
+margin-right:80px ;
+color: white;
+
+}
+.board2__one>h5{
+  font-family: 'Poppins';
+    font-size: 20px;
+    font-weight: 700;
+    margin-right: 80px;
+    color: white;
+}
+.some{
+height: 8px;
+  width: 12px;
+  left: 0.99993896484375px;
+  top: 9px;
+  border-radius: 0px;
+  position: absolute;
+    left: 57.14%;
+    right: 7.14%;
+    top: 34.5%;
+    bottom: 29.17%;
+  
+    color: #38F261
+}
+.board3__one{
+  
+display: flex;
+  justify-content: space-between;
+}
+.board3__content{
+  margin-left: 30px;
+}
+.board3__two{
+  display: flex;
+}
+.board3__three{
+  display: flex;
+}
+.tag{
+  font-weight: 100;
+  font-size: x-small;
+  display: inline;
+}
+.board2__one{
+  display: flex;
+border-bottom: 1px solid #6B5ED2
+}
+.board2__two{
+  display: flex;
+}
+.board2__content{
+  margin-left: 10px;
+}
+.board1__one>h6{
+width: 225px;
+  height: 32px;
+
+  /* Body / Title */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  /* identical to box height, or 160% */
+
+  text-align: center;
+  letter-spacing: 0.44px;
+
+  /* Night Blue */
+
+  color: #383874;
+
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.4399999976158142px;
+    text-align: center;
+}
+.board1__one>h5{
+  width: 81px;
+    height: 36px;
+  
+    /* Headline / H5 */
+  
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 36px;
+    /* identical to box height, or 164% */
+  margin-left: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  
+    /* Night Blue */
+  
+    color: #383874;
+  
+  
+    /* Inside auto layout */
+  
+    flex: none;
+    order: 0;
+    align-self: center;
+    flex-grow: 0;
+}
+.board1__content{
+  display: flex;
+  
+}
+.home__out1{
+  position: absolute;
+  bottom: 100px;
+left: 440px;
+}
+.home__out2{
+  position: absolute;
+  bottom: 100px;
+  left: 610px;
+}
+.home__out3{
+    position: absolute;
+      bottom: 100px;
+      left: 780px;
+}
+.inner>h4{
+  position: absolute;
+    left: 40.65%;
+    right: 45.53%;
+    top: 35.92%;
+    bottom: 50%;
+  
+    /* Body / Body 1 */
+  
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+  
+    text-align: center;
+    letter-spacing: 0.44px;
+  
+    color: #FFFFFF;
+    
+      font-family: Poppins;
+      font-size: 19px;
+      font-weight: 300;
+      line-height: 24px;
+      letter-spacing: 0.4399999976158142px;
+      text-align: center;
+}
+.pink3>h4{
+  height: 16px;
+    width: 45px;
+    left: 482px;
+    top: 161px;
+   
+  position: absolute;
+    left: 40.85%;
+    right: 30.93%;
+    top: 30.69%;
+    bottom: 77.25%;
+  
+    /* Tips and details / Caption */
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    
+    line-height: 16px;
+    /* identical to box height, or 133% */
+  
+    text-align: center;
+    letter-spacing: 0.4px;
+  
+    color: #FFFFFF;
+
+      font-family: Roboto;
+      font-size: 17px;
+      font-weight: 400;
+      line-height: 16px;
+      letter-spacing: 0.4000000059604645px;
+      text-align: center;
+}
+.pink2>h4{
+  position: absolute;
+    left: 36.09%;
+    right: 75.22%;
+    top: 24.96%;
+    bottom: 62.98%;
+  
+    /* Tips and details / Caption */
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    
+    line-height: 16px;
+    /* identical to box height, or 133% */
+  
+    text-align: center;
+    letter-spacing: 0.4px;
+  
+    color: #FFFFFF;
+    
+      font-family: Roboto;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 16px;
+      letter-spacing: 0.4000000059604645px;
+      text-align: center;
+}
+.pink1>h4{
+  position: absolute;
+    left: 38.85%;
+    right: 38.93%;
+    top: 20.69%;
+    bottom: 77.25%;
+  
+    /* Tips and details / Caption */
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+  
+    text-align: center;
+    letter-spacing: 0.4px;
+  
+    color: #FFFFFF;
+}
+.pink4>h4{
+  position: absolute;
+    left: 32.65%;
+    right: 21.32%;
+    top: 30.5%;
+    bottom: 52.44%;
+  
+    /* Tips and details / Caption */
+  
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+  
+    text-align: center;
+    letter-spacing: 0.4px;
+  
+    color: #FFFFFF;
+}
+.board1__text{
+  margin-left: 22px;
+}
+
+
